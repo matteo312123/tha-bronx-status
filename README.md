@@ -1,2 +1,0 @@
-# tha-bronx-status
-status
